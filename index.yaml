@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-26T18:22:38.2524564+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 2574cc9a478048e101b17314d84af5575151e126ed79469da2f9146e563c1126
+    name: nginx-charts
+    type: application
+    urls:
+    - https://yedukondalurd.github.io/nginx-charts/nginx-charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-26T18:22:38.1670972+08:00"
